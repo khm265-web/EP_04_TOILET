@@ -1,0 +1,32 @@
+{
+  "CHAR": {
+    "CHAR_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879927220.png",
+    "CHAR_A_note": "殺手",
+    "CHAR_B": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879917518.png",
+    "CHAR_B_note": "劫匪",
+    "CHAR_C": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879942713.png",
+    "CHAR_C_note": "睡衣男"
+  },
+  "LOC": {
+    "LOC_MASTER": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260816_090243_96b52254-c469-4ac5-84df-f25b987163ae.png",
+    "LOC_MASTER_note": "全場景TOP DOWN平面圖",
+    "LOC_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_195123_c2b0491b-698d-410d-8d4b-1c68f11c23fe.png",
+    "LOC_A_note": "廁所",
+    "LOC_B": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_194647_711c1b9f-7a4d-4c67-869a-02c0146071ce.png",
+    "LOC_B_note": "廚房",
+    "LOC_C": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_192849_25ecaa1d-80c5-490f-9edc-d76e892df58d (1).png",
+    "LOC_C_note": "房間",
+    "LOC_B1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260816_181618_526e8e98-2a34-4784-a60a-1a510b1aea35.png",
+    "LOC_B1_note": "廚房(廁所已開門)"
+  },
+  "PROPS": {
+    "PROP_C1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/PROP/hf_20260816_093609_491bbbcb-b62b-47a7-9ed2-916d7b5a04e8.png",
+    "PROP_C1_note": "睡衣男的杯",
+    "PROP_B1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/PROP/0f17cb2c-5e77-4fdd-8ed6-4b9b0f04aeb0.png",
+    "PROP_B1_note": "劫匪的槍",
+    "PROP_A2": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/PROP/26ffd191-bd33-4903-ada6-df4471ac9334.png",
+    "PROP_A2_note": "殺手的手槍",
+    "PROP_A1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/PROP/hf_20260815_190401_6ef479b5-4b47-4164-84d4-a38b9d430f70_min.png",
+    "PROP_A1_note": "廁客教條 書"
+  }
+}
