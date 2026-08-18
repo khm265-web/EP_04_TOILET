@@ -1,22 +1,22 @@
 {
   "CHAR": {
-    "CHAR_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879927220.png",
+    "CHAR_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786997334380.png",
     "CHAR_A_note": "殺手",
     "CHAR_B": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879917518.png",
     "CHAR_B_note": "劫匪",
-    "CHAR_C": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786879942713.png",
+    "CHAR_C": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/CHAR/pasted_1786996514359.png",
     "CHAR_C_note": "睡衣男"
   },
   "LOC": {
-    "LOC_MASTER": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260816_090243_96b52254-c469-4ac5-84df-f25b987163ae.png",
+    "LOC_MASTER": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260816_185605_119ce469-c962-4c69-b75c-0e8a264db22e.png",
     "LOC_MASTER_note": "全場景TOP DOWN平面圖",
-    "LOC_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_195123_c2b0491b-698d-410d-8d4b-1c68f11c23fe.png",
+    "LOC_A": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260817_184900_105fa125-245a-4e46-be63-7c656ce698bb.png",
     "LOC_A_note": "廁所",
     "LOC_B": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_194647_711c1b9f-7a4d-4c67-869a-02c0146071ce.png",
     "LOC_B_note": "廚房",
     "LOC_C": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260815_192849_25ecaa1d-80c5-490f-9edc-d76e892df58d (1).png",
     "LOC_C_note": "房間",
-    "LOC_B1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260816_181618_526e8e98-2a34-4784-a60a-1a510b1aea35.png",
+    "LOC_B1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/LOC/hf_20260817_185911_6248cd65-4ea8-45bc-bdcd-9951fbe21495_min.png",
     "LOC_B1_note": "廚房(廁所已開門)"
   },
   "PROPS": {
@@ -28,5 +28,17 @@
     "PROP_A2_note": "殺手的手槍",
     "PROP_A1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/PROP/hf_20260815_190401_6ef479b5-4b47-4164-84d4-a38b9d430f70_min.png",
     "PROP_A1_note": "廁客教條 書"
+  },
+  "BLOCKING": {
+    "BLOCKING_2": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/BLOCKING/pasted_1786994671728.png",
+    "BLOCKING_2_note": "走位二（SHOT 07–41）"
+  },
+  "VOICE_REF": {
+    "CHAR_A_VOICE": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/AUDIO/_CHAR_VOICE_REF_Sub_01.wav",
+    "CHAR_A_VOICE_note": "CHAR_A的聲音參考",
+    "CHAR_B_VOICE": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/AUDIO/_CHAR_VOICE_REF_Sub_02.wav",
+    "CHAR_B_VOICE_note": "CHAR_B的聲音參考",
+    "CHAR_C_VOICE": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/AUDIO/_CHAR_VOICE_REF_Sub_03.wav",
+    "CHAR_C_VOICE_note": "CHAR_C的聲音參考"
   }
 }
