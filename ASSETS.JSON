@@ -30,8 +30,12 @@
     "PROP_A1_note": "廁客教條 書"
   },
   "BLOCKING": {
-    "BLOCKING_2": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/BLOCKING/pasted_1786994671728.png",
-    "BLOCKING_2_note": "平面圖 人物位置 走位2（SHOT 07–41）"
+    "BLOCKING_2": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/BLOCKING/pasted_1787027410484.png",
+    "BLOCKING_2_note": "平面圖 人物位置 走位2（SHOT 07–32）",
+    "BLOCKING_1": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/BLOCKING/pasted_1787027393263.png",
+    "BLOCKING_1_note": "平面圖 人物位置 走位1（SHOT 01–06）",
+    "BLOCKING_3": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/BLOCKING/pasted_1787027432381.png",
+    "BLOCKING_3_note": "平面圖 人物位置 走位3（SHOT 33–44）"
   },
   "VOICE_REF": {
     "CHAR_A_VOICE": "https://pub-1a0b1165a1b8444d9e37332ca63529ca.r2.dev/AUDIO/_CHAR_VOICE_REF_Sub_01.wav",
